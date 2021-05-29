@@ -1,1 +1,2 @@
-# Coursera_Capstone
+# Analyzing locations for opening a restaurant in Jaipur, Rajasthan.
+The aim of this project is to study the neighborhoods in Jaipur to determine possible locations for opening a restaurant. This project can be useful for business owners and entrepreneurs who are looking to invest in a restaurant in Jaipur. The main objective of this project is to carefully analyze appropriate data and find recommendations for the stakeholders.
